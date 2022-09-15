@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fogo.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fogo0000" x="0" y="0" width="480" height="272"/>
+	<SubTexture name="fogo0001" x="0" y="0" width="480" height="272"/>
+	<SubTexture name="fogo0002" x="480" y="0" width="480" height="272"/>
+	<SubTexture name="fogo0003" x="480" y="0" width="480" height="272"/>
+	<SubTexture name="fogo0004" x="480" y="0" width="480" height="272"/>
+	<SubTexture name="fogo0005" x="960" y="0" width="480" height="272"/>
+	<SubTexture name="fogo0006" x="960" y="0" width="480" height="272"/>
+	<SubTexture name="fogo0007" x="960" y="0" width="480" height="272"/>
+	<SubTexture name="fogo0008" x="1440" y="0" width="480" height="272"/>
+	<SubTexture name="fogo0009" x="1440" y="0" width="480" height="272"/>
+	<SubTexture name="fogo0010" x="1440" y="0" width="480" height="272"/>
+	<SubTexture name="fogo0011" x="0" y="272" width="480" height="272"/>
+	<SubTexture name="fogo0012" x="0" y="272" width="480" height="272"/>
+	<SubTexture name="fogo0013" x="0" y="272" width="480" height="272"/>
+	<SubTexture name="fogo0014" x="480" y="272" width="480" height="272"/>
+	<SubTexture name="fogo0015" x="480" y="272" width="480" height="272"/>
+	<SubTexture name="fogo0016" x="480" y="272" width="480" height="272"/>
+	<SubTexture name="fogo0017" x="960" y="272" width="480" height="272"/>
+	<SubTexture name="fogo0018" x="960" y="272" width="480" height="272"/>
+	<SubTexture name="fogo0019" x="960" y="272" width="480" height="272"/>
+	<SubTexture name="fogo0020" x="1440" y="272" width="480" height="272"/>
+	<SubTexture name="fogo0021" x="1440" y="272" width="480" height="272"/>
+	<SubTexture name="fogo0022" x="1440" y="272" width="480" height="272"/>
+	<SubTexture name="fogo0023" x="0" y="544" width="480" height="272"/>
+	<SubTexture name="fogo0024" x="0" y="544" width="480" height="272"/>
+	<SubTexture name="fogo0025" x="0" y="544" width="480" height="272"/>
+	<SubTexture name="fogo0026" x="480" y="544" width="480" height="272"/>
+	<SubTexture name="fogo0027" x="480" y="544" width="480" height="272"/>
+	<SubTexture name="fogo0028" x="480" y="544" width="480" height="272"/>
+	<SubTexture name="fogo0029" x="960" y="544" width="480" height="272"/>
+	<SubTexture name="fogo0030" x="960" y="544" width="480" height="272"/>
+</TextureAtlas>
