@@ -1,2 +1,2 @@
-cys
+CYS
 week1
